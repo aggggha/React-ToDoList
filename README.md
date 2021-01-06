@@ -1,3 +1,7 @@
+# About
+This project was created following the directions of [this](https://medium.com/@jinalshah999/reactjs-step-by-step-tutorial-series-part-5-deploy-todo-application-to-github-pages-fed9d25bddea) tutorial with some adjustments.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
